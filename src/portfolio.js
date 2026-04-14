@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Hashem Ampatua",
+  title: "Hi all, I'm Hashem",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Web Developer 🚀 with experience in developing responsive and dynamic web applications using modern technologies, frameworks, and libraries."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -33,11 +33,11 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  github: "https://github.com/peyn-dev",
+  linkedin: "https://www.linkedin.com/in/hashem-s-ampatua-394b3527a/",
+  gmail: "ampatuahashem25@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  facebook: "https://www.facebook.com/hashem.ampatua/",
   medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -73,11 +73,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "JavaScript",
+      skillName: "typescript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
@@ -85,12 +85,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "vuejs",
+      fontAwesomeClassname: "fab fa-vuejs"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "npm",
@@ -109,10 +113,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     }
@@ -126,23 +126,39 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      schoolName: "Mindanao State University",
+      logo: require("./assets/images/images.png"),
+      subHeader: "Bachelor of Science in Information Technology",
+      duration: "2014 - 2022"
+      // desc: "Participated in the research of XXX and published 3 papers.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Datu Calaca Memorial National High School",
+      logo: require("./assets/images/images1.jfif"),
+      subHeader: "High School",
+      duration: "2013 - 2014"
+      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "University Training Center",
+      logo: require("./assets/images/download.jfif"),
+      subHeader: "High School",
+      duration: "2010 - 2013"
+      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "Amai Pakpak Central Elementary School",
+      logo: require("./assets/images/download1.jfif"),
+      subHeader: "Elementary / Basic Education",
+      duration: "2005 - 2010"
+      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
@@ -174,29 +190,44 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Web Developer",
+      company: "Lancaster Technology and Development Corporation",
+      companylogo: require("./assets/images/lancastertechdevphilsinc_logo.jfif"),
+      date: "July 20125 – Present",
+      desc: "Web Developer | Managed Services Unit | Lancaster Technology and Development Corporation",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Development & Maintenance: Managing the full lifecycle of the university’s official websites and web-based systems, including security and UI enhancements.",
+        "Cross-Functional Collaboration: Working with various departments to implement new features, maintain brand consistency, and ensure accessibility standards.",
+        "Digital Transformation: Leading website optimization and troubleshooting while integrating modern technologies to support institutional growth.",
+        "Infrastructure Support: Configuring servers and databases, documenting system updates, and improving overall operational efficiency."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Web Developer",
+      company: "Antajia Software Development Services",
+      companylogo: require("./assets/images/antajia.jpg"),
+      date: "Aug 2024 – March 2025",
+      desc: "Web Developer | Antajia Software Development Services",
+      descBullets: [
+        "Build dynamic interfaces using Svelte and Angular frameworks.",
+        " Design and integrate RESTful APIs using Java.",
+        "Manage and optimize PostgreSQL databases for performance and scalability.",
+        " Collaborate on Webflow-based projects, leveraging its visual development tools with minimal custom coding.",
+        "Collaborated on the development of a Hospital Management System using Angular for the frontend and Kotlin for the backend."
+      ]
     },
     {
       role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      company: "ITS Marawi IT Solution",
+      companylogo: require("./assets/images/ITSMarawi.jpg"),
+      date: "May 2023 – March 2024",
+      desc: "Software Engineer Intern | ITS Marawi IT Solution",
+      descBullets: [
+        "Focusing on debugging, automation testing, and web front-end development.",
+        "Collaborated with cross-functional teams to ensure project success.",
+        "Achieved seamless integration of front-end design with backend functionality.",
+        "Implemented automation testing to improve system efficiency and reliability."
+      ]
     }
   ]
 };
@@ -213,28 +244,43 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle:
+    "SOME STARTUPS, COMPANIES AND GOVERNMENT INSTITUTIONS THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/eseqr.svg").default,
+      projectName: "e-SeQR",
+      projectDesc:
+        "The Electronic Secured QR-Code (e-SeQR) is a record authentication system designed to counter the proliferation of fake records, such as Vehicle Pass, Identification Cards, Diplomas, Certificates, Transcript of Records and other relevant records. It generates encrypted QR-codes that serve as authentication seals, securely placed on records by authorized personnel.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://e-seqr.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/MSU.png"),
+      projectName: "MSU Inventory System",
+      projectDesc:
+        "The MSU Inventory System is a web-based application developed to efficiently manage and track assets and inventory within Mindanao State University. It provides a centralized platform for monitoring item records, ensuring accurate tracking, and improving overall operational efficiency across departments.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://inventory.msumain.edu.ph/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/qariyb.jfif"),
+      projectName: "Qariyb",
+      projectDesc:
+        "Qariyb is a modern event management platform focused on connecting Muslim communities through meaningful and accessible events. Inspired by the concept of “nearness,” Qariyb enables users to easily discover, create, and manage events that foster unity, learning, and community engagement.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://qariyb.com/"
         }
       ]
     }
@@ -300,7 +346,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -324,7 +370,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -343,7 +389,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -356,7 +402,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -372,8 +418,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+63-905-215-8779",
+  email_address: "ampatuahashem25@gmail.com"
 };
 
 // Twitter Section
