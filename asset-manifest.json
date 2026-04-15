@@ -1,11 +1,7 @@
 {
   "files": {
-    "main.css": "/peynportfolio/static/css/main.6c8b90df.css",
-    "main.js": "/peynportfolio/static/js/main.a8ed32fa.js",
-    "static/css/64.bba8fa55.chunk.css": "/peynportfolio/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/peynportfolio/static/js/64.56dc6704.chunk.js",
-    "static/css/769.b3cbb36b.chunk.css": "/peynportfolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/peynportfolio/static/js/769.bda0d7b7.chunk.js",
+    "main.css": "/peynportfolio/static/css/main.659cd2cd.css",
+    "main.js": "/peynportfolio/static/js/main.1172c013.js",
     "static/media/ITSMarawi.jpg": "/peynportfolio/static/media/ITSMarawi.6926f3fc4c242b401033.jpg",
     "static/media/Montserrat-Regular.ttf": "/peynportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/peynportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -27,15 +23,11 @@
     "static/media/pwaLogo.webp": "/peynportfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/peynportfolio/index.html",
     "static/media/talksCardBack.svg": "/peynportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.6c8b90df.css.map": "/peynportfolio/static/css/main.6c8b90df.css.map",
-    "main.a8ed32fa.js.map": "/peynportfolio/static/js/main.a8ed32fa.js.map",
-    "64.bba8fa55.chunk.css.map": "/peynportfolio/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/peynportfolio/static/js/64.56dc6704.chunk.js.map",
-    "769.b3cbb36b.chunk.css.map": "/peynportfolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/peynportfolio/static/js/769.bda0d7b7.chunk.js.map"
+    "main.659cd2cd.css.map": "/peynportfolio/static/css/main.659cd2cd.css.map",
+    "main.1172c013.js.map": "/peynportfolio/static/js/main.1172c013.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c8b90df.css",
-    "static/js/main.a8ed32fa.js"
+    "static/css/main.659cd2cd.css",
+    "static/js/main.1172c013.js"
   ]
 }
