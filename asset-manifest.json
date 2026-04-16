@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/peynportfolio/static/css/main.659cd2cd.css",
-    "main.js": "/peynportfolio/static/js/main.1172c013.js",
-    "static/media/ITSMarawi.jpg": "/peynportfolio/static/media/ITSMarawi.6926f3fc4c242b401033.jpg",
+    "main.js": "/peynportfolio/static/js/main.b96ebd66.js",
+    "static/media/ITSMarawi.jpg": "/peynportfolio/static/media/ITSMarawi.7a3837ad78815e4c5dfc.jpg",
     "static/media/Montserrat-Regular.ttf": "/peynportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/peynportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/peynportfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -24,10 +24,10 @@
     "index.html": "/peynportfolio/index.html",
     "static/media/talksCardBack.svg": "/peynportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.659cd2cd.css.map": "/peynportfolio/static/css/main.659cd2cd.css.map",
-    "main.1172c013.js.map": "/peynportfolio/static/js/main.1172c013.js.map"
+    "main.b96ebd66.js.map": "/peynportfolio/static/js/main.b96ebd66.js.map"
   },
   "entrypoints": [
     "static/css/main.659cd2cd.css",
-    "static/js/main.1172c013.js"
+    "static/js/main.b96ebd66.js"
   ]
 }
