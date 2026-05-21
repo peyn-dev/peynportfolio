@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/peynportfolio/static/css/main.659cd2cd.css",
-    "main.js": "/peynportfolio/static/js/main.b96ebd66.js",
+    "main.js": "/peynportfolio/static/js/main.a4fc6fdf.js",
     "static/media/ITSMarawi.jpg": "/peynportfolio/static/media/ITSMarawi.7a3837ad78815e4c5dfc.jpg",
     "static/media/Montserrat-Regular.ttf": "/peynportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/peynportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -11,12 +11,9 @@
     "static/media/developerActivity.svg": "/peynportfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/googleAssistantLogo.webp": "/peynportfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/antajia.jpg": "/peynportfolio/static/media/antajia.f40a7edea8fffa1addff.jpg",
-    "static/media/download.jfif": "/peynportfolio/static/media/download.9954b06dbad16a67feb7.jfif",
     "static/media/images.png": "/peynportfolio/static/media/images.b8bf613326ec3a3f84c8.png",
-    "static/media/images1.jfif": "/peynportfolio/static/media/images1.fdb2ed8b84d7fbfdddb1.jfif",
     "static/media/MSU.png": "/peynportfolio/static/media/MSU.3f38ab692b1f6e0849c7.png",
     "static/media/codeInLogo.webp": "/peynportfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
-    "static/media/download1.jfif": "/peynportfolio/static/media/download1.dee78974ad4b21cb9341.jfif",
     "static/media/skill.svg": "/peynportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/lancastertechdevphilsinc_logo.jfif": "/peynportfolio/static/media/lancastertechdevphilsinc_logo.4a04448f6e2a9556663c.jfif",
     "static/media/qariyb.jfif": "/peynportfolio/static/media/qariyb.d9ae4664aee3b434ecf2.jfif",
@@ -24,10 +21,10 @@
     "index.html": "/peynportfolio/index.html",
     "static/media/talksCardBack.svg": "/peynportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.659cd2cd.css.map": "/peynportfolio/static/css/main.659cd2cd.css.map",
-    "main.b96ebd66.js.map": "/peynportfolio/static/js/main.b96ebd66.js.map"
+    "main.a4fc6fdf.js.map": "/peynportfolio/static/js/main.a4fc6fdf.js.map"
   },
   "entrypoints": [
     "static/css/main.659cd2cd.css",
-    "static/js/main.b96ebd66.js"
+    "static/js/main.a4fc6fdf.js"
   ]
 }
