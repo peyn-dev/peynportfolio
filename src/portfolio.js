@@ -136,30 +136,30 @@ const educationInfo = {
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
-    {
-      schoolName: "Datu Calaca Memorial National High School",
-      logo: require("./assets/images/images1.jfif"),
-      subHeader: "High School",
-      duration: "2013 - 2014"
-      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    },
-    {
-      schoolName: "University Training Center",
-      logo: require("./assets/images/download.jfif"),
-      subHeader: "High School",
-      duration: "2010 - 2013"
-      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    },
-    {
-      schoolName: "Amai Pakpak Central Elementary School",
-      logo: require("./assets/images/download1.jfif"),
-      subHeader: "Elementary / Basic Education",
-      duration: "2005 - 2010"
-      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
+    // {
+    //   schoolName: "Datu Calaca Memorial National High School",
+    //   logo: require("./assets/images/images1.jfif"),
+    //   subHeader: "High School",
+    //   duration: "2013 - 2014"
+    //   // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+    //   // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    // },
+    // {
+    //   schoolName: "University Training Center",
+    //   logo: require("./assets/images/download.jfif"),
+    //   subHeader: "High School",
+    //   duration: "2010 - 2013"
+    //   // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+    //   // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    // },
+    // {
+    //   schoolName: "Amai Pakpak Central Elementary School",
+    //   logo: require("./assets/images/download1.jfif"),
+    //   subHeader: "Elementary / Basic Education",
+    //   duration: "2005 - 2010"
+    //   // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+    //   // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    // }
   ]
 };
 
@@ -193,7 +193,7 @@ const workExperiences = {
       role: "Web Developer",
       company: "Lancaster Technology and Development Corporation",
       companylogo: require("./assets/images/lancastertechdevphilsinc_logo.jfif"),
-      date: "July 20125 – Present",
+      date: "July 2025 – Present",
       desc: "Web Developer | Managed Services Unit | Lancaster Technology and Development Corporation",
       descBullets: [
         "Development & Maintenance: Managing the full lifecycle of the university’s official websites and web-based systems, including security and UI enhancements.",

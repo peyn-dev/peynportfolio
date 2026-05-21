@@ -15,6 +15,7 @@ import {
 
 function Header() {
   const {isDark} = useContext(StyleContext);
+  const publicUrl = process.env.PUBLIC_URL || "";
   const viewExperience = workExperiences.display;
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
@@ -25,7 +26,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/" className="logo">
+        <a href={`${publicUrl}/`} className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">{greeting.username}</span>
           <span className="grey-color">/&gt;</span>
